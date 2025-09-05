@@ -1,0 +1,12 @@
+﻿{
+  "name": "zalo-bot-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "scripts": {
+    "start": "node api/webhook.js"
+  }
+}
